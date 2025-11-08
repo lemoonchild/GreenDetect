@@ -9,8 +9,6 @@
 
 **Sistema de Deep Learning para la detección y clasificación automática de enfermedades en plantas usando CNN y Transfer Learning con Explainable AI (XAI)**
 
-[Características](#características) • [Instalación](#instalación) • [Uso](#uso) • [Modelos](#modelos) • [Resultados](#resultados) • [Licencia](#licencia)
-
 </div>
 
 ---
@@ -23,11 +21,8 @@
 - [Modelos Implementados](#modelos-implementados)
 - [Instalación](#instalación)
 - [Estructura del Proyecto](#estructura-del-proyecto)
-- [Uso](#uso)
-- [Resultados](#resultados)
 - [Explainable AI (XAI)](#explainable-ai-xai)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Autores](#autores)
 - [Licencia](#licencia)
 
 ---
@@ -246,7 +241,7 @@ unzip pathogen-dataset.zip -d pathogen_data
 
 ---
 
-## 🔍 Explainable AI (XAI)
+## Explainable AI (XAI)
 
 ### ¿Qué es Grad-CAM++?
 
